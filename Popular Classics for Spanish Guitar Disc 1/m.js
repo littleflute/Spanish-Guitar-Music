@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 Choros No. 1 (Villa-Lobos).mp3";		
+f[2]	= "02 Etude in E Minor (Villa-Lobos).mp3";		
+f[3]	= "03 Madronos (Torroba).mp3";		
+f[4]	= "04 Homenaje a Tarrega, Op. 69 (excerpts)- Garrotin (Turina).mp3";		
+f[5]	= "05 Homenaje a Tarrega, Op. 69 (excerpts)- Soleares (Turina).mp3";		
+f[6]	= "06 Prelude in E Minor (Villa-Lobos).mp3";		
+f[7]	= "07 Suite espangnola, Op. 47 (excerpts)- Granada (Albeniz).mp3";		
+f[8]	= "08 Suite espangnola, Op. 47 (excerpts)- Leyenda (Albeniz).mp3";		
+f[9]	= "09 Homenaje 'Le tombeau de Claude Debussy' (De Falla).mp3";		
+f[10]	= "10 Canciones populares catalanas- El testament d'Amelia (Traditional).mp3";		
+f[11]	= "11 Fandanguillo (Turina).mp3";		
